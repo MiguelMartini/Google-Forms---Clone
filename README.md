@@ -1,2 +1,2 @@
 # Google-Forms---Clone
-Clone do google forms, para testes.
+Clone do Google forms, para testes.
